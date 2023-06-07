@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# React Render & Optimization
+React components render, mount and unmount behaviour and how best to optimize performance in react components
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
