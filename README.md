@@ -1,4 +1,4 @@
-# React Render & Optimization
+## React Render & Optimization
 React components render, mount and unmount behaviour and how best to optimize performance in react components
 
 ## Getting Started with Create React App
